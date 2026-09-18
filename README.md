@@ -8,17 +8,17 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Python notes from the basics up to NumPy, pandas and Matplotlib, kept as Jupyter notebooks plus a few scripts on exceptions, threading and serialization.
 
 **Quick start:** `jupyter notebook`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 Temel Python'dan NumPy, pandas ve Matplotlib'e kadar uzanan, Jupyter defterlerinde tutulmuş notlar.
 
-## 📚 İçerik
+## İçerik
 
 - `01`–`04`: veri tipleri, koşullar, döngüler, comprehension, fonksiyonlar, `*args/**kwargs`, lambda, LEGB
 - `05`: OOP, kalıtım, çok biçimlilik, özel metotlar
@@ -27,7 +27,7 @@ Temel Python'dan NumPy, pandas ve Matplotlib'e kadar uzanan, Jupyter defterlerin
 - `10`: dosya açma modları
 - `11`–`13`: `try/except/finally`, `threading`, `pickle` ile serileştirme
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 ```bash
 python -m venv .venv
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 PythonNotes/
