@@ -1,1 +1,14 @@
 .ipynb_checkpoints
+
+# Eklenenler
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
